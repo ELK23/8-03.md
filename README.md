@@ -29,7 +29,6 @@
 ![image](https://github.com/ELK23/8-03.md/assets/67402682/209c513d-4a7c-43eb-bbd8-0be988dd13f7)
 
 
-```
 
 
 
@@ -38,7 +37,7 @@
 ### Задание 2
 
 
-```
+```yaml
 #Этапы тестирования
 stages:
   - test
@@ -57,10 +56,7 @@ build:
   #Код
   script:
    - docker build 
-....
-....
-....
-....
+
 ```
 ![image](https://github.com/ELK23/8-03.md/assets/67402682/fc9eca2c-0313-4e14-aa40-cd5e812f2680)
 
